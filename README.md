@@ -119,5 +119,5 @@ $$
 
 Cluster-SMOTE preserves local minority structure and reduces class overlap.
 
-
+![Performance Comparison](comparision.png)
 
